@@ -13,3 +13,8 @@ Question: Whenever I launch Steam, it asks me to install jockey-common, but it's
 
 Answer: Steam uses the jockey-common package to check for drivers updates, you can just ignore it
 or install jockey-common from Ubuntu's repo.
+
+
+
+
+ALTERNATE DOWNLOAD LINK: http://www.mediafire.com/?ah4qvsw5o5h5445
