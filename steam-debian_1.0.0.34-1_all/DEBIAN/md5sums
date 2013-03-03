@@ -1,0 +1,16 @@
+ce4caade50c7347d89efe4f44d2e78a5  usr/bin/steam
+b7dce0f1ea45e2f67a32ebde88bcfcf9  usr/bin/steamdeps
+53b3fa0b72b67cd61b18dba6c7adb51d  usr/lib/steam/bootstraplinux_ubuntu12_32.tar.xz
+f1b8cca2ed254b84cc2a41e52f5fd2ca  usr/share/applications/steam.desktop
+f0f54e342861e0a87102a55927479ce5  usr/share/doc/steam-launcher/changelog.gz
+2010a501e6597d9fa806470c1808e37a  usr/share/doc/steam-launcher/copyright
+d4eff633df6d6839761f398fbe3b9d00  usr/share/doc/steam/README
+cb8b7bef421f7bc37ae26bd60503da19  usr/share/doc/steam/steam_install_agreement.txt.gz
+c5b52b9bf4f4b16874202a630f4ee959  usr/share/icons/hicolor/16x16/apps/steam.png
+eaa7e4b76acfa71063f88af44cb56f56  usr/share/icons/hicolor/24x24/apps/steam.png
+33f853351224189d561017994a0cbf1a  usr/share/icons/hicolor/256x256/apps/steam.png
+c0c50573f812422a1be4abade4e439d1  usr/share/icons/hicolor/32x32/apps/steam.png
+bd7ecaa3e1b62a8c298df56a7cba1fcc  usr/share/icons/hicolor/48x48/apps/steam.png
+7bb7329cc5ac723cd2510e6759fbed03  usr/share/man/man6/steam.6.gz
+bd7ecaa3e1b62a8c298df56a7cba1fcc  usr/share/pixmaps/steam.png
+bd7ecaa3e1b62a8c298df56a7cba1fcc  usr/share/pixmaps/steam_tray.png
