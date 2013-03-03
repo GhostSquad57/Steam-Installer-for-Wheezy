@@ -15,7 +15,8 @@ Answer: Steam uses the jockey-common package to check for drivers updates, you c
 or install jockey-common from Ubuntu's repo.
 
 
-Question: Where can I fimd the source?
+Question: Where can I find the source?
+
 Answer: The source is located in the folder steam-debian_1.0.0.34-1_all
 
 ALTERNATE DOWNLOAD LINK: http://www.mediafire.com/?ah4qvsw5o5h5445
