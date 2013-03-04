@@ -1,0 +1,2 @@
+deb http://repo.steampowered.com/steam/ precise steam
+deb-src http://repo.steampowered.com/steam/ precise steam
