@@ -5,16 +5,16 @@ Answer: This version comes with an extra folder called i386-linux-gnu which is f
 
 Question: How do I launch?
 
-Answer: Type in any terminal, steam-debian
+Answer: Type in any terminal: steam-debian
 
 
 Question: Whenever I launch Steam, it asks me to install jockey-common, but it's not in Debian's repo
 
-Answer: Type in any terminal sh /usr/lib/steam/steam-debian-depends.sh
+Answer: Type in any terminal: sh /usr/lib/steam/steam-debian-depends.sh
 
 
 Question: Where can I find the source?
 
 Answer: The source is located in the folder steam-debian_1.0.0.34-2_all
 
-ALTERNATE DOWNLOAD LINK: http://www.mediafire.com/?ah4qvsw5o5h5445
+ALTERNATE DOWNLOAD LINK: http://www.mediafire.com/?3uk44nywh5c0tac
