@@ -15,6 +15,8 @@ Answer: Type in any terminal: sh /usr/lib/steam/steam-debian-depends.sh
 
 Question: Where can I find the source?
 
-Answer: The source is located in the folder steam-debian_1.0.0.34-2_all
+Answer: The source is located in the folder steam-debian_1.0.0.34-3_all
 
 ALTERNATE DOWNLOAD LINK: http://www.mediafire.com/?3uk44nywh5c0tac
+
+PLEASE CHECK THE WIKI BEFORE YOU POST AN ISSUE
