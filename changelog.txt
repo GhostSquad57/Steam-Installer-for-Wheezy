@@ -1,0 +1,8 @@
+--VERSION 3--
+	
+	*Added /usr/lib/steam/steam-debian-depends.sh 
+ 	for installing jockey-common and python-xkit
+ 	it can be launched by simply typing: sh /usr/lib/steam/steam-debian-depends.sh
+ 	in any terminal
+
+	*Added ttf-mscorefonts-installer as a dependency
