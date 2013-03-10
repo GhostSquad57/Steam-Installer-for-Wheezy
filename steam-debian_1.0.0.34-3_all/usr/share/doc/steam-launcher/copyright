@@ -1,6 +1,0 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-
-Files: *
-Copyright: Valve Corporation <linux@steampowered.com>
-License: Steam_Install_Agreement
- See /usr/share/doc/steam/steam_install_agreement.txt
