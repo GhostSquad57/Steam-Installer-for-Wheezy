@@ -1,3 +1,7 @@
+--VERSION 4--
+
+	*Launching via shortcut no longer opens terminal
+
 --VERSION 3--
 	
 	*Added /usr/lib/steam/steam-debian-depends.sh 
