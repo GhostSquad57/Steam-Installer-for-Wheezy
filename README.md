@@ -17,6 +17,6 @@ Question: Where can I find the source?
 
 Answer: The source is located in the folder steam-debian_1.0.0.34-4_all
 
-MEDIAFIRE DOWNLOAD LINK: http://www.mediafire.com/?w1943rekzvk5zfl
+MEDIAFIRE DOWNLOAD LINK: http://www.mediafire.com/?u3g60b0raz9no7j
 
 PLEASE CHECK THE WIKI BEFORE YOU POST AN ISSUE
