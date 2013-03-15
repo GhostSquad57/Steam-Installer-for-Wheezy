@@ -2,6 +2,8 @@
 
 	*Launching via shortcut no longer opens terminal
 
+	*Imported changes from Valve's official .deb
+
 --VERSION 3--
 	
 	*Added /usr/lib/steam/steam-debian-depends.sh 
