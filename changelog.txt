@@ -1,3 +1,9 @@
+--VERSION 5--
+
+	*Made the system tray icon more visible
+        *Added licensing information; see /usr/share/doc/steam/copyright
+        *Added some notes for 64bit users
+
 --VERSION 4--
 
 	*Launching via shortcut no longer opens terminal
