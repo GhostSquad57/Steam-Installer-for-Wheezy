@@ -16,10 +16,16 @@ Description: A modified version of the Steam .deb
  .
  The command to launch is steam-debian
  .
- P.S. If you're running a 64bit system, you'll have to enable access to 32bit libraries 
+ P.S. If you're running a 64bit system, you'll have to enable access to 32bit libraries
  .
  This can be done by executing the following commands: 
  .
  sudo dpkg --add-architecture i386 
  .
  sudo apt-get update
+ .
+ After doing this, you'll need to install additional packages:
+ .
+ FOR ATI GRAPHICS CARDS: libgl1-fglrx-glx:i386
+ .
+ FOR NVIDIA CARDS: libgl1-nvidia-glx:i386
