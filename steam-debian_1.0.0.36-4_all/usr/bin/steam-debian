@@ -1,2 +1,0 @@
-# This command tells Steam to load its libs from /usr/lib/steam/i386-linux-gnu, /usr/lib and /usr/lib32
-LD_LIBRARY_PATH=/usr/lib/steam/i386-linux-gnu/:/usr/lib:/usr/lib32 steam
