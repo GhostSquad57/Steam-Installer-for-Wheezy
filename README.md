@@ -17,7 +17,7 @@ Question: Where can I find the source?
 
 Answer: The source is located in the folder steam-debian_1.0.0.36-5_all
 
-MEDIAFIRE DOWNLOAD LINK: http://www.mediafire.com/?9e1sgqru8e6v37s
+MEDIAFIRE DOWNLOAD LINK: http://www.mediafire.com/?h1cc1heaxtc7j
 
 IF YOU'RE RUNNING A 64BIT SYSTEM, YOU'LL HAVE TO ENABLE ACCESS TO 32BIT LIBRARIES 
 PLEASE READ https://github.com/GhostSquad57/Steam-Installer-for-Wheezy/wiki FOR MORE INFO
