@@ -1,3 +1,7 @@
+--VERSION 6--
+
+*Corefonts are now just recommended
+
 --VERSION 5--
 
 	*Made the system tray icon more visible
