@@ -15,7 +15,7 @@ Answer: Type in any terminal: sh /usr/lib/steam/steam-debian-depends.sh
 
 Question: Where can I find the source?
 
-Answer: The folder with a .tar extension contains the sorce
+Answer: The folder with the .tar extension contains the source
 
 MEDIAFIRE DOWNLOAD LINK: http://www.mediafire.com/?h1cc1heaxtc7j
 
