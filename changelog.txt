@@ -1,6 +1,7 @@
 --VERSION 6--
 
-*Corefonts are now just recommended
+	*Corefonts are now just recommended
+	*Imported changes from Valve's official .deb
 
 --VERSION 5--
 

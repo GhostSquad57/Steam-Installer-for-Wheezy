@@ -1,0 +1,32 @@
+Package: steam-debian
+Source: steam
+Version: 1.0.0.38-6
+Architecture: all
+Maintainer: Keith Henderson <keithhendersonjr@gmail.com>
+Installed-Size: 5427.2
+Depends: python, curl, libc6, python-apt, realpath, xterm | gnome-terminal | konsole, xz-utils, zenity, libgl1-mesa-dri:i386, libgl1-mesa-glx:i386
+Recommends: ttf-mscorefonts-installer
+Conflicts: steam, steam64
+Replaces: steam, steam64
+Section: games
+Priority: optional
+Homepage: http://www.steampowered.com/
+Description: A modified version of the Steam .deb 
+ Note that this version of the .deb is meant
+ to be installed and ran on Debian Testing
+ .
+ The command to launch is steam-debian
+ .
+ P.S. If you're running a 64bit system, you'll have to enable access to 32bit libraries
+ .
+ This can be done by executing the following commands: 
+ .
+ sudo dpkg --add-architecture i386 
+ .
+ sudo apt-get update
+ .
+ After doing this, you'll need to install additional packages:
+ .
+ FOR ATI GRAPHICS CARDS: libgl1-fglrx-glx:i386
+ .
+ FOR NVIDIA CARDS: libgl1-nvidia-glx:i386
