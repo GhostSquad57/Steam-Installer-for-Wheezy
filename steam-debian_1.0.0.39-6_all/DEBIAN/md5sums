@@ -1,8 +1,0 @@
-1d134fb209996bf83b545b7826b31c34  etc/apt/sources.list.d/steam.list
-6e678da66cd58fd43723b087a08b5b74  etc/apt/trusted.gpg.d/steam.gpg
-c55c9cdcd245379f86a8fb7a2a903cc4  lib/udev/rules.d/99-steam-controller-perms.rules
-e679330be11304f689289a091bfd3319  usr/bin/steam
-ce86276c3100ae57fb910059d8979cb3  usr/bin/steam-debian
-b7dce0f1ea45e2f67a32ebde88bcfcf9  usr/bin/steamdeps
-65b70a0a920f408517b11d173888f20d  usr/lib/steam/bootstraplinux_ubuntu12_32.tar.xz
-b58c7a358a8f18c79fc95f82c597c0c5  usr/lib/steam/steam-debian-depends.sh

@@ -1,3 +1,8 @@
+steam-debian (1.0.0.39-7) UNRELEASED; urgency=low
+
+  *See commits 314259f162 and 1eb9c4d67c
+
+ -- Keith Henderson Jr <keithhendersonjr@gmail.com>  Fri, 26 Apr 2013 11:29:00 -0400
 steam-debian (1.0.0.38-6) UNRELEASED; urgency=low
 
   *Merged changes from Valve's official deb
