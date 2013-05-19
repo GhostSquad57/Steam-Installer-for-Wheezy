@@ -1,3 +1,7 @@
+--VERSION 7--
+
+	*See commits 314259f162 and 1eb9c4d67c
+
 --VERSION 6--
 
 	*Corefonts are now just recommended
