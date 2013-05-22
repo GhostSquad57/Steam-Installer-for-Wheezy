@@ -1,3 +1,7 @@
+--VERSION 8--
+	
+	*This .deb is no longer being maintained
+
 --VERSION 7--
 
 	*See commits 314259f162 and 1eb9c4d67c
