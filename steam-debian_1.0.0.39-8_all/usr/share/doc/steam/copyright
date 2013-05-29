@@ -1,0 +1,27 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Steam
+Source: https://github.com/GhostSquad57/Steam-Installer-for-Wheezy
+
+Files: /lib/udev*
+Copyright: Valve Corporation <linux@steampowered.com>
+License: Steam_Install_Agreement
+ See /usr/share/doc/steam/steam_install_agreement.txt
+
+Files: /usr/share/*
+Copyright: Valve Corporation <linux@steampowered.com>
+License: Steam_Install_Agreement
+ See /usr/share/doc/steam/steam_install_agreement.txt
+
+Files: /usr/bin/*
+Copyright: Valve Corporation <linux@steampowered.com>
+License: Steam_Install_Agreement
+ See /usr/share/doc/steam/steam_install_agreement.txt
+
+Files: /etc/*
+Copyright: Valve Corporation <linux@steampowered.com>
+License: Steam_Install_Agreement
+ See /usr/share/doc/steam/steam_install_agreement.txt
+
+Files: /usr/share/lib/steam/i386-linux-gnu*
+Copyright: Free Software Foundation
+License: GNU Lesser General Public
