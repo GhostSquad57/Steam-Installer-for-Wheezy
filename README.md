@@ -8,7 +8,7 @@
 
 **Question: Whenever I launch Steam, it asks me to install jockey-common, but it's not in Debian's repo**
 
-* Answer: Type in any terminal: sh /usr/lib/steam/steam-debian-depends.sh
+* Answer: Type in any terminal: `sh /usr/lib/steam/steam-debian-depends.sh` steam-debian-depends.sh is a simple shell script that downloads python-xkit and jockey-common from Ubuntu's repo and installs them using dpkg. Make sure the user that executes this script is in the sudoers list.
 
 **Question: Where can I find the source?**
 
