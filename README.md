@@ -16,6 +16,6 @@
 
 [MEDIAFIRE DOWNLOAD LINK](http://www.mediafire.com/?h1cc1heaxtc7j)
 
-IF YOU'RE RUNNING A 64BIT SYSTEM, YOU'LL HAVE TO ENABLE ACCESS TO 32BIT LIBRARIES PLEASE READ [THE WIKI](https://github.com/GhostSquad57/Steam-Installer-for-Wheezy/wiki) FOR MORE INFO
+*If you're using a 64-bit system, you'll have to enable access to 32-bit libraries. Please read [the wiki](https://github.com/GhostSquad57/Steam-Installer-for-Wheezy/wiki) for more info*
 
-PLEASE CHECK THE [WIKI](https://github.com/GhostSquad57/Steam-Installer-for-Wheezy/wiki) BEFORE YOU POST AN ISSUE!
+*please check the [wiki](https://github.com/GhostSquad57/Steam-Installer-for-Wheezy/wiki) before you post an issue!*
