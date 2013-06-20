@@ -1,0 +1,13 @@
+3319a920d535a2c519f8c84a8b0fe64c  etc/apt/sources.list.d/violetsky_steam.list
+105c9561f03b0c5ee331caee2470b04b  etc/apt/trusted.gpg.d/dimitri_nuescheler.gpg
+c55c9cdcd245379f86a8fb7a2a903cc4  lib/udev/rules.d/99-steam-controller-perms.rules
+e679330be11304f689289a091bfd3319  usr/bin/steam
+742dd4d30f9aa0ad27965f1a97b493b9  usr/bin/steam-debian
+b7dce0f1ea45e2f67a32ebde88bcfcf9  usr/bin/steamdeps
+65b70a0a920f408517b11d173888f20d  usr/lib/steam/bootstraplinux_ubuntu12_32.tar.xz
+c0ecb7e33a53c81cd5a36efa41bcadb2  usr/lib/steam/steam-debian-depends.sh
+02679e59eb543a2de78960aa4ce18c9d  usr/share/applications/steam.desktop
+7bb7329cc5ac723cd2510e6759fbed03  usr/share/man/man6/steam.6.gz
+0f882ea7e5c7ef4d8f7e9d5d5fb830e5  usr/share/pixmaps/steam-deb.png
+4908e49a4c27ed6433ef8cabac223019  usr/share/pixmaps/steam_tray_mono.png
+60514b294350d05389d7cdb05a3e27c0  usr/share/pixmaps/steam_tray.png
