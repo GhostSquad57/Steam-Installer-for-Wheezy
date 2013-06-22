@@ -1,3 +1,6 @@
+### This installer is *for Debian "Wheezy" (stable)* and *not: testing, sid, or debian variants*
+
+###FAQ:
 **Question: What's the difference between this installer and Valve's?**
 
 * Answer: This version comes with an extra folder called `i386-linux-gnu` which is from *Ubuntu's libc6 deb package*, it is saved in `/usr/lib/steam/`. The *steam-debian excutable loads said folder* which solves the need for glibc 2.15
