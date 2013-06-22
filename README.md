@@ -6,9 +6,15 @@
 
 * Answer: Type in any terminal: `steam-debian`
 
-**Question: Whenever I launch Steam, it asks me to install jockey-common, but it's not in Debian's repo**
+**Question: Whenever I launch Steam, it asks me to install jockey-common**
 
-* Answer: Type in any terminal: `sh /usr/lib/steam/steam-debian-depends.sh` steam-debian-depends.sh is a simple shell script that builds and installs a fake version of jockey-common. *Make sure the user that executes this script is in the sudoers list!*
+[Method 1] *recommended*
+* Thanks to [testian](https://github.com/testian), jockey-common can be installed easily by:
+* `apt-get update`
+* `apt-get install jockey-common`
+
+[Method 2]
+if for some odd reason you don't trust testian's repo, you can install jockey-common by executing [this script](https://gist.github.com/GhostSquad57/5821487)
 
 **Question: Where can I find the source?**
 
