@@ -1,0 +1,16 @@
+# libpthread must be stripped specially; GDB needs the non-dynamic 
+# symbol table in order to load the thread debugging library.
+steam-debian: unstripped-binary-or-object */libpthread-2.15.so
+
+# ld.so must be executable, otherwise the system will not work
+steam-debian: shlib-with-executable-bit */ld-2.15.so 0755
+
+# It is normal that the ELF dynamic linker does not need any other 
+# library
+steam-debian: shared-lib-without-dependency-information */ld-2.15.so
+
+# dependency on debconf is not needed, as glibc has a fallback to tty 
+steam-debian: missing-debconf-dependency-for-preinst
+
+steam-debian: arch-independent-package-contains-binary-or-object
+steam-debian: embedded-library
