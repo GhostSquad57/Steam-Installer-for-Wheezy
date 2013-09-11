@@ -21,7 +21,7 @@ if for some odd reason you don't trust testian's repo, you can install jockey-co
 
 **Question: Where can I find the source?**
 
-* Answer: `steam-debian_1.0.0.41-1_all` contains the source
+* Answer: `steam-debian_1.0.0.42-1_all` contains the source
 
 [MEDIAFIRE DOWNLOAD LINK](http://www.mediafire.com/?h1cc1heaxtc7j)
 
