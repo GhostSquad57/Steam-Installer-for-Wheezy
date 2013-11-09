@@ -8,7 +8,7 @@
 **Question: How do I launch?**
 
 * Answer: Type in any terminal: `steam-debian`
-* Note: For users affected by issue #27, `LC_ALL=C steam-debian` is needed to launch
+* Note: For users affected by issue #27 `LC_ALL=C steam-debian` should be used
 
 **Question: Whenever I launch Steam, it asks me to install jockey-common**
 
