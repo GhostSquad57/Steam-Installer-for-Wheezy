@@ -11,6 +11,8 @@
 * Note: For users affected by issue #27 `LC_ALL=C steam-debian` should be used
 
 **Question: Whenever I launch Steam, it asks me to install jockey-common**
+**As of version 1.0.0.44-3, Steam no longer asks to install `jockey-common` on startup**
+**So this guide isn't really needed, but I'll keep it for legacy purposes**
 
 [Method 1] *recommended*
 * Thanks to [testian](https://github.com/testian), jockey-common can be installed easily by:
@@ -22,9 +24,9 @@ if for some odd reason you don't trust testian's repo, you can install jockey-co
 
 **Question: Where can I find the source?**
 
-* Answer: `steam-debian_1.0.0.43-3_all` contains the source
+* Answer: `steam-debian_1.0.0.44-3_all` contains the source
 
-[Dropbox Download Link](https://dl.dropboxusercontent.com/u/82856418/Steam-Installer-For-Wheezy/steam-debian_1.0.0.43-3_all.deb)
+[Dropbox Download Link](https://dl.dropboxusercontent.com/u/82856418/Steam-Installer-For-Wheezy/steam-debian_1.0.0.44-3_all.deb)
 
 *If you're using a 64-bit system, you'll have to enable access to 32-bit libraries. Please read [the wiki](https://github.com/GhostSquad57/Steam-Installer-for-Wheezy/wiki) for more info*
 
