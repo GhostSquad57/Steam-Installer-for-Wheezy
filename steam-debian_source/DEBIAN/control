@@ -1,6 +1,6 @@
 Package: steam-debian
 Source: steam
-Version: 1.0.0.47-4
+Version: 1.0.0.48-4
 Architecture: all
 Maintainer: Keith Henderson Jr <keithhendersonjr@gmail.com>
 Installed-Size: 5500.0
@@ -10,7 +10,7 @@ Conflicts: steam, steam64
 Replaces: steam, steam64
 Section: games
 Priority: optional
-Homepage: http://www.steampowered.com/
+Homepage: https://github.com/GhostSquad57/Steam-Installer-for-Wheezy
 Description: Modified version of Valve's installer
  Note that this version of the .deb is meant
  to be installed and ran on Debian Wheezy
