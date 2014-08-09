@@ -12,7 +12,7 @@
 
 **Question: Whenever I launch Steam, it asks me to install jockey-common**
 
-*As of version 1.0.0.44-3, Steam no longer asks to install `jockey-common` on startup so, this guide isn't really needed, but I'll keep it for legacy purposes*
+* As of version 1.0.0.44-3, Steam no longer asks to install `jockey-common` on startup so, this guide isn't really needed, but I'll keep it for legacy purposes
 
 [Method 1] *recommended*
 * Thanks to [testian](https://github.com/testian), jockey-common can be installed easily by:
