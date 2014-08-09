@@ -54,7 +54,7 @@ edc1116e90bdc6664ba9139832ddb249  usr/bin/steamdeps
 3ba59a4e047144296e430c5d1770efed  usr/share/lintian/overrides/steam-debian
 f1db933781817865c066843608ca825f  usr/share/doc/steam-debian/copyright
 cb8b7bef421f7bc37ae26bd60503da19  usr/share/doc/steam-debian/steam_install_agreement.txt.gz
-20391d7bf62a9f6982efb32765f927c9  usr/share/doc/steam-debian/changelog.Debian.gz
+1a345ba7f03d91515f8fb150a35bfac7  usr/share/doc/steam-debian/changelog.Debian.gz
 8f456d70a8f75cd705145bb5981f0ca2  usr/share/pixmaps/steam_tray_mono.png
 bd7ecaa3e1b62a8c298df56a7cba1fcc  usr/share/pixmaps/steam.png
 7bb7329cc5ac723cd2510e6759fbed03  usr/share/man/man6/steam.6.gz
@@ -63,4 +63,4 @@ bd7ecaa3e1b62a8c298df56a7cba1fcc  usr/share/pixmaps/steam.png
 12aeca93daf56bac2721554e617b7821  usr/share/icons/hicolor/16x16/apps/steam.png
 004e2f804095ecffa92a129d858c084b  usr/share/icons/hicolor/48x48/apps/steam.png
 053dbf086d9bcf2e8b6f4cf245c73d24  usr/share/icons/hicolor/32x32/apps/steam.png
-7de4b049351cdbd566815e3347f4624c  usr/share/applications/steam.desktop
+e7b87f1cd1ac3cb2d2490d252939e697  usr/share/applications/steam.desktop
