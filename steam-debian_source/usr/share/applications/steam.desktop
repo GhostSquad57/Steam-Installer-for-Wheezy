@@ -1,13 +1,5 @@
 [Desktop Entry]
 Name=Steam
-Name[de]=Stoom
-Name[es]=Vapor
-Name[fr]=Vapeur
-Name[it]=Vapore
-Name[pt]=Vapor
-Name[ru]=Пар
-Name[zh_CN]=蒸汽
-Name[zh_TW]=蒸汽
 Comment=Application for managing and playing games on Steam
 Exec=/usr/bin/steam-debian
 Icon=steam

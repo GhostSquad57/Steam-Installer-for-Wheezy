@@ -26,7 +26,7 @@ if for some odd reason you don't trust testian's repo, you can install jockey-co
 
 * Answer: `steam-debian_source` contains the source, duh.
 
-[Dropbox Download Link](https://dl.dropboxusercontent.com/u/82856418/Steam-Installer-For-Wheezy/steam-debian_1.0.0.48-5_all.deb)
+[Dropbox Download Link](https://dl.dropboxusercontent.com/u/82856418/Steam-Installer-For-Wheezy/steam-debian_1.0.0.48-6_all.deb)
 
 *If you're using a 64-bit system, you'll have to enable access to 32-bit libraries. Please read [the wiki](https://github.com/GhostSquad57/Steam-Installer-for-Wheezy/wiki) for more info*
 
