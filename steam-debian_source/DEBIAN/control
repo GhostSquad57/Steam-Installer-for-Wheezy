@@ -1,6 +1,6 @@
 Package: steam-debian
 Source: steam
-Version: 1.0.0.48-6
+Version: 1.0.0.49-6
 Architecture: all
 Maintainer: Keith Henderson Jr <keithhendersonjr@gmail.com>
 Installed-Size: 5500.0
