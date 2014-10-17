@@ -1,5 +1,13 @@
 #!/bin/sh
-# This command tells Steam to load its libs from /usr/lib/steam/i386-linux-gnu, /usr/lib/steam/x86_64-linux-gnu, /usr/lib and /usr/lib32
+
 # If you use non-english locales and Steam doesn't launch, try "LC_ALL=C steam-debian"
 # Thanks to GitHub user rulet for pointing this out.
-LD_LIBRARY_PATH=/usr/lib/steam/i386-linux-gnu/:/usr/lib/steam/x86_64-linux-gnu/:/usr/lib:/usr/lib32 steam "$@"
+
+# Loads library files from directories:
+# /usr/lib/steam/i386-linux-gnu/, /usr/lib/steam/x86_64-linux-gnu/, /usr/lib, /usr/lib32, /usr/lib/i386-linux-gnu/nvidia/current/
+LD_LIBRARY_PATH=\
+/usr/lib/steam/i386-linux-gnu/\
+:/usr/lib/steam/x86_64-linux-gnu/\
+:/usr/lib\
+:/usr/lib32\
+:/usr/lib/i386-linux-gnu/nvidia/current/ steam "$@"

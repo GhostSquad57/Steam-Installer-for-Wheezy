@@ -49,12 +49,12 @@ ee439d489dcbfeb12b809d9b961ffc60  usr/lib/steam/i386-linux-gnu/libm-2.15.so
 0b6e8a722ea7aac1dd21498788eed7f9  usr/lib/steam/i386-linux-gnu/ld-2.15.so
 ef83ff00418602d90928abb7d1851647  usr/lib/steam/i386-linux-gnu/libnss_files-2.15.so
 a16061d5aa6b9371f41c1a0d1e18c1c6  usr/bin/steam
-33f233979dbab8e434c9c2540c5637d5  usr/bin/steam-debian
+5a452df19012a69686176e63b2e1cfcf  usr/bin/steam-debian
 edc1116e90bdc6664ba9139832ddb249  usr/bin/steamdeps
 3ba59a4e047144296e430c5d1770efed  usr/share/lintian/overrides/steam-debian
 f1db933781817865c066843608ca825f  usr/share/doc/steam-debian/copyright
 cb8b7bef421f7bc37ae26bd60503da19  usr/share/doc/steam-debian/steam_install_agreement.txt.gz
-5b9cf52159e9799da44d610c766d4887  usr/share/doc/steam-debian/changelog.Debian.gz
+a54d34f00f3cddfd132aefdff164290c  usr/share/doc/steam-debian/changelog.Debian.gz
 4a561916ca50d53895877b2e17461966  usr/share/pixmaps/steam_tray_mono.png
 6f27880b4a3ab35babcbddac7458763e  usr/share/pixmaps/steam.png
 7bb7329cc5ac723cd2510e6759fbed03  usr/share/man/man6/steam.6.gz
