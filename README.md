@@ -1,7 +1,7 @@
 ### Package Status: Orphaned
 The latest stable release of Debian (which is "Jessie" at the time of writing this,) uses libc6 2.19, and should run Steam without the need for this package. Thank you all; it's been fun working on this package. Happy fragging!
 
-### This installer is for *for Debian "Wheezy"* and *not: testing, sid, or debian variants*
+### This installer is *for Debian "Wheezy"* and *not: testing, sid, or debian variants*
 
 ### FAQ:
 **Question: What's the difference between this installer and Valve's?**
