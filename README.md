@@ -3,7 +3,7 @@ The latest stable release of Debian (which is "Jessie" at the time of writing th
 
 ### This installer is for *for Debian "Wheezy"* and *not: testing, sid, or debian variants*
 
-###FAQ:
+### FAQ:
 **Question: What's the difference between this installer and Valve's?**
 
 * Answer: This version comes with an extra folder called `i386-linux-gnu` and `x86_64-linux-gnu` which is from *Ubuntu's libc6 deb package*, it is saved in `/usr/lib/steam/`. The *steam-debian excutable loads said folder* which solves the need for glibc 2.15
